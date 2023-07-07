@@ -1,0 +1,60 @@
+body {
+    font-family: 'Helvetica';
+}
+
+.navbar {
+    background: linear-gradient(to right, white, silver);
+    font-weight: bold;
+}
+
+hr {
+    border: none;
+    border-top: .3125rem solid red;
+    opacity: 100%;
+    width: 15%;
+    margin: 0 auto; 
+  }
+  
+  
+
+#sobre-nosotros {
+    background-color: #28242c;
+}
+
+#cursos {
+    background: linear-gradient(to right, white, silver);
+}
+
+#dojos {
+    background-image: url("img/fondodojo.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+
+}
+
+.card:hover{
+    background-color: red;
+    color: white
+
+}
+
+#maestros {
+    background-color: #28242c;
+
+}
+
+#miCarouselMaestros {
+    background-color: white;
+    border: .125rem solid white;
+    border-radius: .3125rem;
+    overflow: hidden;/
+}
+
+footer {
+    background: linear-gradient(to right, white, silver);
+}
+
+footer i:hover {
+    color: white;
+}
